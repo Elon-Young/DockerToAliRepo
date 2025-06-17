@@ -18,5 +18,6 @@
 #nacos/nacos-server:v3.0.1
 apacherocketmq/rocketmq-dashboard:1.0.0
 rocketmqinc/rocketmq:4.4.0
+docker.elastic.co/elasticsearch/elasticsearch:8.12.2
 
 
